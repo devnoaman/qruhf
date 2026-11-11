@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <queries><package android:name="com.senter.barcode.helper" /></queries>
+    <application>
+        <uses-native-library android:name="libStSerialPort.so" android:required="false" />
+    </application>
+</manifest>
