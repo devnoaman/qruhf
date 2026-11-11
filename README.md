@@ -2,7 +2,6 @@
 
 Flutter plugin for the **built-in Senter barcode/QR scanner and D2 UHF RFID reader**. Includes a complete Android example. This is device hardware integration, not a camera barcode package.
 
-Validated hardware and live results are recorded in [docs/DEVICE_REPORT.md](docs/DEVICE_REPORT.md).
 
 ## Requirements
 
